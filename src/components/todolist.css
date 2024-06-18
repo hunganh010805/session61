@@ -1,0 +1,8 @@
+.gradient-custom {
+    background: radial-gradient(50% 123.47% at 50% 50%, #d3d4d4 0%, #c4b3c0 100%),
+        linear-gradient(121.28deg, #19ef6b 0%, #f6d592 100%),
+        linear-gradient(360deg, #ffb803 0%, #d5e4c2 100%),
+        radial-gradient(100% 164.72% at 100% 100%, #52867f 0%, #068b8b 100%),
+        radial-gradient(100% 148.07% at 0% 0%, #9394f1 0%, #232c5d 100%);
+    background-blend-mode: screen, color-dodge, overlay, difference, normal;
+}
